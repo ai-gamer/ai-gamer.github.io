@@ -125,7 +125,9 @@ highlight_name: true
 matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and 
 
 mobile sensor networks. flsjdljfls lj jjj
+
+I
 {style="text-align: justify;"}
 
-<!-- Red colored text sd
-{color: red"} -->
+Red colored text sd
+{style="text-align: justify;color: red"}
