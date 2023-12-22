@@ -127,5 +127,5 @@ matter. She leads the Robotic Neurobiology group, which develops self-reconfigur
 mobile sensor networks. flsjdljfls lj jjj
 {style="text-align: justify;"}
 
-Red colored text sd
-{color: red"}
+<!-- Red colored text sd
+{color: red"} -->
