@@ -128,4 +128,4 @@ mobile sensor networks. flsjdljfls lj jjj
 {style="text-align: justify;"}
 
 Red colored text sd
-{style="text-align: justify; color: red"}
+{color: red"}
