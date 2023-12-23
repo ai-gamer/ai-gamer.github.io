@@ -115,7 +115,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a third-year PhD student studying Computer Science at Nanyang Technological University. I am very fortunate to be advised by Prof. (Bo An)(https://personal.ntu.edu.sg/boan/). My research focuses on reinforcement learing, deep learning and their applications in finance especially quantitative trading. I am the technical lead of an open-source RL4Fintech platform (TradeMaster)(https://github.com/TradeMaster-NTU).
+I am a third-year PhD student studying Computer Science at Nanyang Technological University. I am very fortunate to be advised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). My research focuses on reinforcement learing, deep learning and their applications in finance especially quantitative trading. I am the technical lead of an open-source RL4Fintech platform [TradeMaster](https://github.com/TradeMaster-NTU).
 {style="text-align: justify;"}
 
 `I am actively looking for quant trader & researcher positions anywhere!` 
