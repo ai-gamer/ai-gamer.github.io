@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 孙朔
+title: Shuo Sun
 
 # Name pronunciation (optional)
-name_pronunciation: Shuo Sun
+name_pronunciation: 孙朔
 
 # Full name (for SEO)
 first_name: Shuo
@@ -25,26 +25,27 @@ organizations:
     url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research `nterests` include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning and Fintech.
 
 # Interests to show in About widget
 interests:
   - Reinforcement Learning
   - Quantitative Trading
   - Deep Learning
+  - Fintech 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Nanyang Technological University, Singapore
+      year: 2021-Present 
+    - course: MSc in Artificial Intelligence
+      institution: University of Edinburgh, UK
+      year: 2017-2018
+    - course: BEng in Software Engineering
+      institution: Nankai University, China
+      year: 2013-2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
