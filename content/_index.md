@@ -163,7 +163,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      font_size: 1px
 
   
 ---
