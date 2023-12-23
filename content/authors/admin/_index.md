@@ -3,7 +3,7 @@
 title: Shuo Sun
 
 # Name pronunciation (optional)
-name_pronunciation: 孙朔
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shuo
