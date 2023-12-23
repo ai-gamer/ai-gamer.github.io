@@ -15,6 +15,6 @@ date: '2023-01-01'
 publishDate: '2023-12-23T18:49:06.773555Z'
 publication_types:
 - paper-conference
-publication: "*Proceedings of the Thirty-seventh Conference on Neural Information
+publication: "*Proceedings of the 37th Conference on Neural Information
   Processing Systems (NeurIPS'23)*"
 ---
