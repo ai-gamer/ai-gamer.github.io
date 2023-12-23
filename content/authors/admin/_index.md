@@ -33,11 +33,12 @@ interests:
   - Quantitative Trading
   - Deep Learning
   - Fintech 
+  - Time Series Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: Nanyang Technological University, Singapore
       year: 2021-Present 
     - course: MSc in Artificial Intelligence
@@ -94,41 +95,28 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: sunshuo1201@gmail.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=kGgWv8IAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ai-gamer
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shuo-sun-73b82918b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-`Chien Shiung Wu` t the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable 
-
-matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and 
-
-mobile sensor networks. flsjdljfls lj jjj
-
-I
+I am a third-year PhD student studying Computer Science at Nanyang Technological University. I am very fortunate to be advised by Prof. (Bo An)(https://personal.ntu.edu.sg/boan/). My research focuses on reinforcement learing, deep learning and their applications in finance especially quantitative trading. I am the technical lead of an open-source RL4Fintech platform (TradeMaster)(https://github.com/TradeMaster-NTU).
 {style="text-align: justify;"}
 
-Red colored text sd
+`I am actively looking for quant trader & researcher positions anywhere!` 
 {style="text-align: justify;color: red"}
