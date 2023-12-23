@@ -1,0 +1,12 @@
+---
+title: 'EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency
+  Trading'
+authors:
+- Shuo Sun, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An Molei Qin
+date: '2024-01-01'
+publishDate: '2023-12-23T18:49:06.765071Z'
+publication_types:
+- paper-conference
+publication: "*Proceedings of the 38th AAAI Conference on Artificial Intelligence
+  (AAAI'24)*"
+---
