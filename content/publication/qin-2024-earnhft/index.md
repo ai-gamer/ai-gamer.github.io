@@ -2,7 +2,7 @@
 title: 'EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency
   Trading'
 authors:
-- Molei Qin, **Shuo Sun**, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An
+- Molei Qin, __Shuo Sun__, Wentao Zhang, Haochong Xia, Xinrun Wang, Bo An
 date: '2024-01-01'
 publishDate: '2023-12-23T18:49:06.765071Z'
 publication_types:
