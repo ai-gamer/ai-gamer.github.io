@@ -123,6 +123,7 @@ sections:
       flip_alt_rows: false
 
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: |-
