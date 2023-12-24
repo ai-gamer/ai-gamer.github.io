@@ -69,17 +69,15 @@ sections:
           location: Beijing
           date_start: '2023-11-28'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-              * Analysing
+
         - title: BRAIN Research Consultant
           company: WorldQuant
           company_url: 'https://www.worldquant.com/'
           company_logo: worldquant
-          location: Remote
+          location: Remote & Part-time
           date_start: '2023-10-10'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Design, implement and maintain a portfolio of alphas, which are combinations of mathematical expressions to make predictions on future price movements of various financial instruments with good return and Sharpe ratio.
         - title: Quantitative Researcher Intern
           company: X-Tech
           company_url: ''
@@ -87,7 +85,10 @@ sections:
           location: Beijing
           date_start: '2020-02-01'
           date_end: '2020-10-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+              * Designed and implemented alphas (features) for Chinese commodity futures
+              * Trained different machine learning models including LightGBM, linear regression, random forest and neural networks for alpha combination to improve Sharpe ratio
           
     design:
       columns: '2'
