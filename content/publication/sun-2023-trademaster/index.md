@@ -2,7 +2,7 @@
 title: 'TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement
   Learning'
 authors:
-- Shuo Sun
+- "**Shuo Sun**"
 - Molei Qin
 - Haochong Xia
 - Chuqiao Zong
